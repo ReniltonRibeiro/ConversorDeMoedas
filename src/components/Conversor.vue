@@ -42,8 +42,12 @@ export default {
 
 <style scoped>
 .Conversor {
+    color: #eee19a;
     padding: 20px;
     max-width: 300px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border-style: solid;
+    border-width: thin;
+    background-image: url(https://images4.alphacoders.com/618/618005.jpg);
 }
 </style>
