@@ -36,7 +36,11 @@ export default {
     -moz-osx-font-smoothing: grayscale;
 
     color: #191709;
-    margin-top: 60px; 
+    margin-top: 60px;
+    
+    background-image: url('./moeda.jpg');
+    background-size: cover;
+    background-position: bottom;
 }
 .linha{
     margin-top:40px;
